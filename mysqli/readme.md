@@ -1,5 +1,9 @@
 # SQL Boilerplate :: MySQLi
 
-Hier zie je de connectie en uitvoering van de meest voorkomende queries in MySQLi. De manual over MySQLi is hier te vinden: [MySQLi](http://php.net/mysqli). 
+Here you can see the connection and execution of the most common queries in MySQLi. 
+The manual about MySQLi can be found here: http://php.net/mysqli
 
-MySQLi kan je op 2 manieren gebruiken. Via de procedurele methode (gewoon met functies) of via de MySQLi class. Ik raad aan de class te gebruiken, aangezien MySQL daarvoor gemaakt is.
+MySQLi can be used in two ways. Via the procedural method (just with functions) or 
+via the MySQLi class (recognizable by the object-arrows like -> ).
+
+I recommend using the MySQLi class, since MySQL is made for that, and classes are more flexible. 
