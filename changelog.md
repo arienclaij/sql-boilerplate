@@ -10,6 +10,8 @@ Changelog
 - Map with wrong translation for procedural updated.
 - Deprecated MySQL function deleted.
 
+29 - May 2022
+- First readme.md translated.
 
 
 ToDo:
